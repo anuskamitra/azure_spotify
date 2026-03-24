@@ -1,0 +1,9 @@
+{
+	"name": "amspotifydatafacoty",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f6a3ffd-2ee3-4126-a5a0-ed8d27acfce6",
+		"tenantId": "00653fd7-3c63-4c5f-b95b-29bc8469471c"
+	}
+}
